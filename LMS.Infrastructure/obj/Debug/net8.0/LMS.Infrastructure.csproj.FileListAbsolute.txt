@@ -1,0 +1,17 @@
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Infrastructure.deps.json
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Infrastructure.dll
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Infrastructure.pdb
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Application.dll
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Domain.dll
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Application.pdb
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\bin\Debug\net8.0\LMS.Domain.pdb
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.AssemblyInfo.cs
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infr.9CDDD858.Up2Date
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.dll
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\refint\LMS.Infrastructure.dll
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\LMS.Infrastructure.pdb
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Infrastructure\obj\Debug\net8.0\ref\LMS.Infrastructure.dll

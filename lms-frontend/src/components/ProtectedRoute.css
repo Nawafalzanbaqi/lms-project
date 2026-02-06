@@ -1,0 +1,17 @@
+.protected-layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.protected-content {
+  display: flex;
+  flex: 1;
+}
+
+.main-content {
+  flex: 1;
+  padding: 2rem;
+  background-color: #f1f5f9;
+  overflow-y: auto;
+}

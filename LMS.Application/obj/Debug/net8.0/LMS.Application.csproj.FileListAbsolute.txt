@@ -1,0 +1,15 @@
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\bin\Debug\net8.0\LMS.Application.deps.json
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\bin\Debug\net8.0\LMS.Application.dll
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\bin\Debug\net8.0\LMS.Application.pdb
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\bin\Debug\net8.0\LMS.Domain.dll
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\bin\Debug\net8.0\LMS.Domain.pdb
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.csproj.AssemblyReference.cache
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.AssemblyInfoInputs.cache
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.AssemblyInfo.cs
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Appl.3451E0AD.Up2Date
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.dll
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\obj\Debug\net8.0\refint\LMS.Application.dll
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\obj\Debug\net8.0\LMS.Application.pdb
+C:\Users\NAWAF\Desktop\P_1\LMS\LMS\LMS.Application\obj\Debug\net8.0\ref\LMS.Application.dll

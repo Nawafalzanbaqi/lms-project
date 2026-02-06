@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|solutionrelative:lms.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|solutionrelative:lms.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|solutionrelative:lms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|solutionrelative:lms.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4FB6A-AAF2-4B48-833E-86C5C75C1A61}|LMS.Infrastructure\\LMS.Infrastructure.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4FB6A-AAF2-4B48-833E-86C5C75C1A61}|LMS.Infrastructure\\LMS.Infrastructure.csproj|solutionrelative:lms.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|solutionrelative:lms.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|solutionrelative:lms.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|solutionrelative:lms.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61519C10-37C2-4207-82F1-1DED129A4095}|LMS.Domain\\LMS.Domain.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61519C10-37C2-4207-82F1-1DED129A4095}|LMS.Domain\\LMS.Domain.csproj|solutionrelative:lms.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.application\\lms.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|solutionrelative:lms.application\\lms.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4FB6A-AAF2-4B48-833E-86C5C75C1A61}|LMS.Infrastructure\\LMS.Infrastructure.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.infrastructure\\lms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDA4FB6A-AAF2-4B48-833E-86C5C75C1A61}|LMS.Infrastructure\\LMS.Infrastructure.csproj|solutionrelative:lms.infrastructure\\lms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|solutionrelative:lms.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.api\\lms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|solutionrelative:lms.api\\lms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.application\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|solutionrelative:lms.application\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.application\\dtos\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|solutionrelative:lms.application\\dtos\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.api\\lms.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|solutionrelative:lms.api\\lms.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|solutionrelative:lms.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.application\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|solutionrelative:lms.application\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5EC6647-99BF-4454-92FB-ABC45387FF4C}|LMS.API\\LMS.API.csproj|solutionrelative:lms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|solutionrelative:lms.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3FF687-CD3C-4257-B432-476F213EEFC6}|LMS.Application\\LMS.Application.csproj|solutionrelative:lms.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61519C10-37C2-4207-82F1-1DED129A4095}|LMS.Domain\\LMS.Domain.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.domain\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61519C10-37C2-4207-82F1-1DED129A4095}|LMS.Domain\\LMS.Domain.csproj|solutionrelative:lms.domain\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4FB6A-AAF2-4B48-833E-86C5C75C1A61}|LMS.Infrastructure\\LMS.Infrastructure.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4FB6A-AAF2-4B48-833E-86C5C75C1A61}|LMS.Infrastructure\\LMS.Infrastructure.csproj|solutionrelative:lms.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4FB6A-AAF2-4B48-833E-86C5C75C1A61}|LMS.Infrastructure\\LMS.Infrastructure.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.infrastructure\\migrations\\20260205122824_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4FB6A-AAF2-4B48-833E-86C5C75C1A61}|LMS.Infrastructure\\LMS.Infrastructure.csproj|solutionrelative:lms.infrastructure\\migrations\\20260205122824_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4FB6A-AAF2-4B48-833E-86C5C75C1A61}|LMS.Infrastructure\\LMS.Infrastructure.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.infrastructure\\migrations\\20260206001504_addisactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4FB6A-AAF2-4B48-833E-86C5C75C1A61}|LMS.Infrastructure\\LMS.Infrastructure.csproj|solutionrelative:lms.infrastructure\\migrations\\20260206001504_addisactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4FB6A-AAF2-4B48-833E-86C5C75C1A61}|LMS.Infrastructure\\LMS.Infrastructure.csproj|c:\\users\\nawaf\\desktop\\p_1\\lms\\lms\\lms.infrastructure\\migrations\\20260206015204_addcreatedat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4FB6A-AAF2-4B48-833E-86C5C75C1A61}|LMS.Infrastructure\\LMS.Infrastructure.csproj|solutionrelative:lms.infrastructure\\migrations\\20260206015204_addcreatedat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LMS.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "LMS.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:22:07.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "LMS.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "LMS.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:21:35.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LMS.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LMS.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:46:17.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "LMS.API\\Program.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\Program.cs",
+              "RelativeToolTip": "LMS.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:19:43.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Domain\\User.cs",
+              "RelativeDocumentMoniker": "LMS.Domain\\User.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Domain\\User.cs",
+              "RelativeToolTip": "LMS.Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:18:04.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "LMS.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "LMS.Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:42:33.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LMS.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LMS.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:27:45.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "LMS.API\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "LMS.API\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:51:51.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260206015204_AddCreatedAt.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Infrastructure\\Migrations\\20260206015204_AddCreatedAt.cs",
+              "RelativeDocumentMoniker": "LMS.Infrastructure\\Migrations\\20260206015204_AddCreatedAt.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Infrastructure\\Migrations\\20260206015204_AddCreatedAt.cs",
+              "RelativeToolTip": "LMS.Infrastructure\\Migrations\\20260206015204_AddCreatedAt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T01:52:04.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "LMS.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "LMS.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:23:36.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LMS.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\LMS.Application.csproj",
+              "RelativeDocumentMoniker": "LMS.Application\\LMS.Application.csproj",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\LMS.Application.csproj",
+              "RelativeToolTip": "LMS.Application\\LMS.Application.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T12:06:40.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LMS.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Infrastructure\\LMS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "LMS.Infrastructure\\LMS.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Infrastructure\\LMS.Infrastructure.csproj",
+              "RelativeToolTip": "LMS.Infrastructure\\LMS.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T12:07:05.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "LMS.Application\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "LMS.Application\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:18:16.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260206001504_AddIsActive.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Infrastructure\\Migrations\\20260206001504_AddIsActive.cs",
+              "RelativeDocumentMoniker": "LMS.Infrastructure\\Migrations\\20260206001504_AddIsActive.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Infrastructure\\Migrations\\20260206001504_AddIsActive.cs",
+              "RelativeToolTip": "LMS.Infrastructure\\Migrations\\20260206001504_AddIsActive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:15:04.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LMS.API.csproj",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\LMS.API.csproj",
+              "RelativeDocumentMoniker": "LMS.API\\LMS.API.csproj",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\LMS.API.csproj",
+              "RelativeToolTip": "LMS.API\\LMS.API.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T23:12:58.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\DTOs\\CreateCourseDto.cs",
+              "RelativeDocumentMoniker": "LMS.Application\\DTOs\\CreateCourseDto.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\DTOs\\CreateCourseDto.cs",
+              "RelativeToolTip": "LMS.Application\\DTOs\\CreateCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:51:24.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "LMS.Application\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "LMS.Application\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:32:37.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260205122824_Init.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Infrastructure\\Migrations\\20260205122824_Init.cs",
+              "RelativeDocumentMoniker": "LMS.Infrastructure\\Migrations\\20260205122824_Init.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Infrastructure\\Migrations\\20260205122824_Init.cs",
+              "RelativeToolTip": "LMS.Infrastructure\\Migrations\\20260205122824_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:28:24.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "LMS.Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "LMS.Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:45:40.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LMS.API",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\LMS.API.csproj",
+              "RelativeDocumentMoniker": "LMS.API\\LMS.API.csproj",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\LMS.API.csproj",
+              "RelativeToolTip": "LMS.API\\LMS.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T23:25:46.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "LMS.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "LMS.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:23:01.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\DTOs\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "LMS.Application\\DTOs\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\DTOs\\CreateUserDto.cs",
+              "RelativeToolTip": "LMS.Application\\DTOs\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:22:35.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LMS.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.API\\appsettings.json",
+              "RelativeToolTip": "LMS.API\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-05T12:20:30.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LMS.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LMS.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:19:11.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Domain\\Course.cs",
+              "RelativeDocumentMoniker": "LMS.Domain\\Course.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Domain\\Course.cs",
+              "RelativeToolTip": "LMS.Domain\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:18:33.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "LMS.Application\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\NAWAF\\Desktop\\P_1\\LMS\\LMS\\LMS.Application\\Services\\JwtService.cs",
+              "RelativeToolTip": "LMS.Application\\Services\\JwtService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:33:08.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
